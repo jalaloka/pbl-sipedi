@@ -27,10 +27,6 @@
                                 <dd class="col-7">: {{ $tugasakhir->penerbit }}</dd>
                                 <dt class="col-5">Tahun Terbit</dt>
                                 <dd class="col-7">: {{ $tugasakhir->tahun_terbit }}</dd>
-                            </dl>
-                        </div>
-                        <div class="col-md-6">
-                            <dl class="row">
                                 <dt class="col-5">Jumlah Halaman Buku</dt>
                                 <dd class="col-7">: {{ $tugasakhir->jumlah_halaman }}</dd>
                                 <dt class="col-5">Lokasi Rak</dt>
