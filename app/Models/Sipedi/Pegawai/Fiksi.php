@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Sipedi\Pegawai;
+namespace App\Models\Sipedi\pegawai;
 
 use App\Models\Model;
 use Illuminate\Support\Str;
