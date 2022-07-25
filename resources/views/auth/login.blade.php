@@ -77,7 +77,7 @@
                     </div>
                 </form>
 
-                <div class="login100-more" style="background-image: url();">
+                <div class="login100-more" style="background-image: url({{ url('images/buku.jpg') }});">
                 </div>
             </div>
         </div>
