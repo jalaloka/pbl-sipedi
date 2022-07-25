@@ -18,7 +18,7 @@ Use App\Http\Controllers\Profile\MahasiswaController;
 |
 */
 
-Route::redirect('/','/login');
+Route::redirect('/','login');
 
 Route::get('login', [AuthController::class, 'login'])->name('login');
 Route::post('login', [AuthController::class, 'loginProcess']);
