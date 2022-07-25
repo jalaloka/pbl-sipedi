@@ -17,7 +17,7 @@
                 </div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-8">
                             <dl class="row">
                                 <dt class="col-5">Judul Buku</dt>
                                 <dd class="col-7">: {{ $tugasakhir->judul }}</dd>
