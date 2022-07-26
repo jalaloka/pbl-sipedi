@@ -1,4 +1,5 @@
 <x-module.pegawai>
+    <x-template.button.back-button url="pegawai/kondisibuku" />
     <div class="card">
         <div class="card-header">
             <div class="card-title">Tambah Data Kodisi Buku</div>

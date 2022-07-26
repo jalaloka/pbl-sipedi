@@ -1,6 +1,6 @@
 <x-module.pegawai>
     <div class="container">
-        <a href="{{ url('pegawai/kondisibuku') }}" class="btn btn-xs btn-primary"><i class="fa fa-arrow-left"></i>
+        <a href="{{ url('pegawai/kondisibuku') }}" class="btn btn-xs btn-dark"><i class="fa fa-arrow-left"></i>
             Kembali</a>
                 <div class="card">
                     <div class="card-header">
