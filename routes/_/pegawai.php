@@ -6,7 +6,7 @@ use App\Http\Controllers\Sipedi\Pegawai\PeminjamanController;
 use App\Http\Controllers\Sipedi\Pegawai\PengunjungController;
 use App\Http\Controllers\Sipedi\Pegawai\PengembalianController;
 use App\Http\Controllers\Sipedi\Pegawai\KondisibukuController;
-use App\Http\Controllers\Sipedi\pegawai\FiksiController;
+use App\Http\Controllers\Sipedi\Pegawai\FiksiController;
 use App\Http\Controllers\Sipedi\pegawai\NonfiksiController;
 use App\Http\Controllers\Sipedi\Pegawai\TugasakhirController;
 use App\Http\Controllers\Sipedi\Pegawai\DendaController;
